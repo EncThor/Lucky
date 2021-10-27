@@ -1,2 +1,52 @@
-# Lucky
-Code 1   ((ViewGroup) img_content.getParent()).removeView(img_content);  Code 2   ((ViewGroup) relativelayout_2.getParent()).removeView(relativelayout_2);  Code 3   android.widget.RelativeLayout rl = new android.widget.RelativeLayout(MainActivity.this);  rl.setLayoutParams(new LinearLayout.LayoutParams(-1,-1));  relativelayout_1.removeAllViews();  relativelayout_1.addView(rl);  rl.addView(img_content);  rl.addView(relativelayout_2);  //2 Code For transparent status bar //  Code 1  getWindow().getDecorView().setSystemUiVisibility(View.SYSTEM_UI_FLAG_LAYOUT_STABLE | View.SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN); getWindow().setStatusBarColor(Color.TRANSPARENT); getWindow().setNavigationBarColor(Color.parseColor("#FFFFFFFF"));
+{
+  "data": [
+    {
+      "name": "kakegurui episode 1",
+      "link": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1Pt9IZ6M9K976aLnhqol6BVliccDlhQeW"
+    },
+    {
+      "name": "kakegurui episode 2",
+      "link": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1Pv7jyUh_T_e9bTMPKFi6NtM3hHxS0gcg"
+    },
+    {
+      "name": "kakegurui episode 3",
+      "link": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1PyUYGdndQN35xLeQCmuPd4NuXa96o2rz"
+    },
+    {
+      "name": "kakegurui episode 4",
+      "link": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1Q3G4IhN-RQE_vF_k9S4QBCsnoKBCmGu2"
+    },
+    {
+      "name": "kakegurui episode 5",
+      "link": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1Q7bpQU_1fxp3EuHJ5rEhot2wqTFDLVOq"
+    },
+    {
+      "name": "kakegurui episode 6",
+      "link": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1Q8E6ViH5zcbGSkaEEZrl1ggr9gnqmXFG"
+    },
+    {
+      "name": "kakegurui episode 7",
+      "link": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1QEHUDl-S5g3CB27nyBAvTAGK9ZaKYmHF"
+    },
+    {
+      "name": "kakegurui episode 8",
+      "link": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1QHkrScuzRUvf4QA1c5lnqahaWb66GKVj"
+    },
+    {
+      "name": "kakegurui episode 9",
+      "link": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1QVMb91XBrO1NDQZtLJczxpHYOigK8N9R"
+    },
+    {
+      "name": "kakegurui episode 10",
+      "link": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1QdVZW5swcmm_KNYTIGkihR6Slj-FxSMB"
+    },
+    {
+      "name": "kakegurui episode 11",
+      "link": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1Qg-dRGdYOqbWhrjXtK9JgTG6SNsJaFlN"
+    },
+    {
+      "name": "kakegurui episode 12",
+      "link": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1QmoJNadg81mHAkDoZxnVKJ7w5JC94sLc"
+    }
+  ]
+}
